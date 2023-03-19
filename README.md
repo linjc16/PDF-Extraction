@@ -92,4 +92,3 @@ Currently, there are still some limitations for this pipeline despite its great 
 - PaddleOCR may not detect some short text lines, such as very short captions.
 - PaadleOCR may detect some plain passages as figures/tables, such as references or Algorihtm blocks.
 
-## Question Generation
